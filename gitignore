@@ -1,0 +1,25 @@
+# Data & outputs (keep raw data out of version control)
+data/
+figures/
+*.csv
+*.xlsx
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+.env
+.venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS
+.DS_Store
+Thumbs.db
