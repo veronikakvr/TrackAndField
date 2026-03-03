@@ -21,7 +21,7 @@ deepof-openfield-analysis/
 │   ├── 01_openfield_centre_time.py       # Python – centre-zone dwell-time
 │   └── 02_bw_behaviour_correlation.R     # R – BW × behaviour correlations
 ├── data/
-│   └── example/                          # Place example DLC CSVs here
+│   └── example/                          # pending example datasets
 ├── figures/                              # Output figures (gitignored by default)
 ├── environment.yml                       # Conda environment spec
 ├── requirements.txt                      # pip fallback
