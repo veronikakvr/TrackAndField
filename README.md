@@ -139,14 +139,6 @@ Each animal's trajectory is plotted with the estimated arena boundary (green) an
 **Correlation figure** (script 02):  
 Faceted scatter plot (Sex × Behavioural parameter) with per-group linear fits and inline Spearman ρ / p annotations.
 
----
-
-## Citation
-
-If you use this code in your research, please cite this repository and the relevant DeepLabCut and DeepOF papers:
-
-- Mathis *et al.* (2018) DeepLabCut. *Nature Neuroscience*. https://doi.org/10.1038/s41593-018-0209-y  
-- Luxem *et al.* (2023) DeepOF. *eLife*. https://doi.org/10.7554/eLife.85, 331
 
 ---
 
